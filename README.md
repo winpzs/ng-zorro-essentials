@@ -1,4 +1,4 @@
-# Angular Essentials - Extension Pack for VS Code
+# ng-zorro Essentials - Extension Pack for VS Code
 
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for ng-alain development.
 
