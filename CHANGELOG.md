@@ -1,6 +1,6 @@
 ## Angular Essentials Changelog
 
-# 1.0.1 (2017-12-20)
+# 1.0.1 (2018-1-4)
 
 * Remove Angular Language Service
   * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
