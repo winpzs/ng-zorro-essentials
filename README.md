@@ -10,7 +10,7 @@ Here is the list of extensions the pack includes:
 
 [Angular 5 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4 & 5.
 
-[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - This extension provides a rich editing experience for Angular templates, both inline and external templates. This extension is brought to you by members of the Angular team. It is fantastic at helping write solid code in the html templates.
+[ng-alain-sip Helper](https://marketplace.visualstudio.com/items?itemName=winpzs.ngalainsiphelper) - 把angular, npm, terminal结合到VS code的辅助工具.
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames. Hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
 
