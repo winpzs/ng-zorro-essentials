@@ -1,4 +1,13 @@
-## Angular Essentials Changelog
+## ng-zorro Essentials Changelog
+
+# 1.0.2 (2018-1-17)
+
+* ADD Extends
+  * [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) - Automatically searches for TypeScript definitions in workspace files and provides all known symbols as completion item to allow code completion.
+
+  * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
+
+  * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 
 # 1.0.1 (2018-1-4)
 

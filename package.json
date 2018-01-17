@@ -9,13 +9,12 @@
     },
     "keywords": [
         "Angular",
-        "Angular 2",
         "Angular 4",
         "Angular 5",
         "TypeScript",
         "HTML"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "winpzs",
     "engines": {
         "vscode": "^1.12.0"
@@ -28,6 +27,9 @@
         "Mikael.Angular-BeastCode",
         "winpzs.ngalainsiphelper",
         "christian-kohler.path-intellisense",
-        "natewallace.angular2-inline"
+        "natewallace.angular2-inline",
+        "pmneo.tsimporter",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag"
     ]
 }
